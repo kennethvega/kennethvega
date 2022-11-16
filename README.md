@@ -2,7 +2,7 @@
 # Hi there I'm Kenneth a software developer 
 
 
-## About
+## 👨‍💻 About
 I have a passion in designing, learning and building things for the web. I like to resolve design problems and create interactive interface, developing web experiences & web applications..
 - 👨‍💻 I'm currently building my 4th project with MERN stack.
 - 💻 I'm currently learning about backend with node,express and mongoDB.
