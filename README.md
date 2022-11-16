@@ -8,7 +8,7 @@ I'm Kenneth a full-stack software developer, and I have a passion for designing,
 - 💻 I'm currently learning about backend with node,express and mongoDB.
 - 🏆 2023 Goals: 1. Get a job as a front-end developer or a full stack developer. 2. build meaningful software 3. learn more about software engineering.
 
-## 🤝🏻 &nbsp;Connect with Me
+## &nbsp;Connect with Me ✉️
 
 <p>I would love to hear from you. Whether it’s a project, a job opportunity,
 or just a chat. Feel free to contact me.</p>
