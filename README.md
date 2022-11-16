@@ -1,4 +1,6 @@
-# Hi there I'm Kenneth. 
+
+# Hi there I'm Kenneth a software developer 
+
 
 ## About
 I have a passion in designing, learning and building things for the web. I like to resolve design problems and create interactive interface, developing web experiences & web applications..
