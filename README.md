@@ -8,7 +8,7 @@ I'm Kenneth a full-stack software developer, and I have a passion for designing,
 - 💻 I'm currently learning about backend with node,express and mongoDB.
 - 🏆 2023 Goals: 1. Get a job as a front-end developer or a full stack developer. 2. build meaningful software 3. learn more about software engineering.
 
-## &nbsp;Connect with Me ✉️
+## ✉️&nbsp;Connect with Me 
 
 <p>I would love to hear from you. Whether it’s a project, a job opportunity,
 or just a chat. Feel free to contact me.</p>
@@ -23,7 +23,7 @@ or just a chat. Feel free to contact me.</p>
 <img src=https://img.shields.io/badge/website-%ff5851db.svg?color=303030&style=for-the-badge&logo=googlechrome&logoColor=white alt=portfolio website style="margin-bottom: 5px;" />
   
 
-## Pinned Repositories
+## 📌Pinned Repositories 
  
  <a href="https://github.com/kennethvega/mycode">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kennethvega&repo=mycode&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
@@ -73,7 +73,7 @@ or just a chat. Feel free to contact me.</p>
 
   
   
-### ⚙️ &nbsp;GitHub Analytics
+### 📈 &nbsp;GitHub Analytics
 
 <a href="https://github.com/kennethvega">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kennethvega&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
