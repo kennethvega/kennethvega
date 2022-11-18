@@ -1,8 +1,7 @@
 
-# Hi, I'm Kenneth Vega.
+<h1 align='center'> Hi 👋, I'm Kenneth Vega.</h1>
 
-Hey there 👋
-
+Hey there 
 I'm Kenneth a full-stack software developer, and I have a passion for designing, learning, and building things for the web. I like to resolve design problems and create an interactive interface, developing web experiences & web applications.
 - 👨‍💻 I'm currently building my 4th project with MERN stack.
 - 💻 I'm currently learning about backend with node,express and mongoDB.
