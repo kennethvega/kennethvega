@@ -9,9 +9,6 @@ I'm Kenneth a full-stack software developer, and I have a passion for designing,
 
 ## ✉️&nbsp;Connect with Me 
 
-<p>I would love to hear from you. Whether it’s a project, a job opportunity,
-or just a chat. Feel free to contact me.</p>
-
 <a href="https://www.linkedin.com/in/kenneth-vega-5bb9b3237/" target="_blank" rel="noopener noreferrer">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
