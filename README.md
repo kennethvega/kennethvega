@@ -20,29 +20,9 @@ or just a chat. Feel free to contact me.</p>
 </a>
 <a href="https://www.kennethvega.com/" target="_blank" rel="noopener noreferrer">
 <img src=https://img.shields.io/badge/website-%ff5851db.svg?color=303030&style=for-the-badge&logo=googlechrome&logoColor=white alt=portfolio website style="margin-bottom: 5px;" />
-  
-
-## 📌Pinned Repositories 
- 
- <a href="https://github.com/kennethvega/mycode">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kennethvega&repo=mycode&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a> 
-   <a href="https://github.com/kennethvega/mycode">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kennethvega&repo=mycode&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a> 
-  <br/>
-<a href="https://github.com/kennethvega/minimalist-portfolio">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kennethvega&repo=minimalist-portfolio&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a> 
-  <a href="https://github.com/kennethvega/Plantito">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kennethvega&repo=Plantito&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a> 
-
    
   
 ## 🛠️Tools and Languages
-  
- ### Languages
   
   <p>
   <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
@@ -52,7 +32,6 @@ or just a chat. Feel free to contact me.</p>
   <img src = "https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt = "sass" />
     </p>
   
-  ### Front-end tools
   
   <p>  
   <img src = "https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt = "react" />
@@ -61,8 +40,7 @@ or just a chat. Feel free to contact me.</p>
   <img src = "https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt = "redux" />
    </p>
   
-  ### Back-end tools
-  
+
   <p>
   <img src = "https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt = "firebase" /> 
   <img src = "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt = "node.js" />
