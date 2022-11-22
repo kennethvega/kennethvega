@@ -2,7 +2,7 @@
 <h1 align='center'> Hi 👋, I'm Kenneth Vega.</h1>
 
 Hey there 
-I'm Kenneth a full-stack software developer, and I have a passion for designing, learning, and building things for the web. I like to resolve design problems and create an interactive interface, developing web experiences & web applications.
+I'm Kenneth a front-end software engineer, and I have a passion for designing, learning, and building things for the web. I like to resolve design problems and create an interactive interface, developing web experiences & web applications.
 - 👨‍💻 I'm currently building my 4th project with MERN stack.
 - 💻 I'm currently learning about backend with node,express and mongoDB.
 - 🏆 2023 Goals: 1. Get a job as a front-end developer or a full stack developer. 2. build meaningful software 3. learn more about software engineering.
