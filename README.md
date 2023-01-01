@@ -7,7 +7,7 @@ I'm Kenneth a front-end software engineer. I have a passion for designing, learn
 - 💻 I'm currently learning about backend with node,express and mongoDB.
 - 🏆 2023 Goals: 1. Get a job as a front-end developer or a full stack developer. 2. build meaningful software 3. learn more about software engineering.
 
-## ✉️&nbsp;Connect with Me 
+### ✉️&nbsp;Connect with Me 
 
 <a href="https://www.linkedin.com/in/kenneth-vega-5bb9b3237/" target="_blank" rel="noopener noreferrer">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -19,31 +19,23 @@ I'm Kenneth a front-end software engineer. I have a passion for designing, learn
 <img src=https://img.shields.io/badge/website-%ff5851db.svg?color=303030&style=for-the-badge&logo=googlechrome&logoColor=white alt=portfolio website style="margin-bottom: 5px;" />
    
   
-## 🛠️Tools and Languages
+### 🛠️Tools and Languages
   
-  <p>
+ 
   <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
   <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt = "ts" />
   <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html" />
   <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css" />
   <img src = "https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt = "sass" />
-    </p>
-  
-  
-  <p>  
   <img src = "https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt = "react" />
-    <img src = "https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt = "next.js" />
+   <img src = "https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt = "next.js" />
   <img src = "https://img.shields.io/badge/Tailwind Css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt = "tailwindcss" />
   <img src = "https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt = "redux" />
-   </p>
-  
-
-  <p>
   <img src = "https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt = "firebase" /> 
   <img src = "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt = "node.js" />
   <img src = "https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt = "express" />
   <img src = "https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt = "mongoDB" />
- </p>
+
 
   
   
