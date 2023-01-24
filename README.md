@@ -3,8 +3,8 @@
 
 Hey there 
 I'm Kenneth a Full-stack software developer. I have a passion for designing, learning, and building things for the web. I like to solve design problems and create an interactive interface, develop web experiences & web applications.
-- 👨‍💻 I'm currently building my 4th project with MERN stack.
-- 💻 I'm currently learning about backend with node,express and mongoDB.
+
+- 💻 I'm currently learning Data structures and algorithms.
 - 🏆 2023 Goals: 1. Get a job as a front-end developer or a full stack developer. 2. build meaningful software 3. learn more about software engineering.
 
 ### ✉️&nbsp;Connect with Me 
